@@ -1,4 +1,4 @@
-### Hi there, I'm FreezeRae - aka [Rheanne Blest][website] 👋
+### Hi there, I'm FreezeRae - aka [Rheanne Blest](https://flowcv.me/rheanne-blest-razo) 👋
 [![Website](https://img.shields.io/website?label=flowcv.me/rheanne-blest-razo&style=for-the-badge&url=https://flowcv.me/rheanne-blest-razo)](https://flowcv.me/rheanne-blest-razo)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BlestRazo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BlestRazo?fbclid=IwAR1oCP8-wpuD8SCmeRloDo3vneqeQjDbaLDzx09Uymnfwo7rsEfR-LVIeEY)
 
