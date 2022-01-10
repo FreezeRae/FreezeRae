@@ -7,7 +7,7 @@
 - 🔭 I just launched my first website: [Check out my Personal Website here!](https://rheannerazo.com/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other driven inviduals who are pationate about learning
-- 🥅 2021 Goals: Upskill! Upskill! Upskill!
+- 🥅 2022 Goals: Upskill! Upskill! Upskill!
 - ⚡ Fun fact: I am into tabletop roleplay! 🎲
 
 ### Connect with me:
