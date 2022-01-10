@@ -1,10 +1,10 @@
-### Hi there, I'm FreezeRae - aka [Rheanne Blest](https://flowcv.me/rheanne-blest-razo) 👋
-[![Website](https://img.shields.io/website?label=flowcv.me/rheanne-blest-razo&style=for-the-badge&url=https://flowcv.me/rheanne-blest-razo)](https://flowcv.me/rheanne-blest-razo)
+### Hi there, I'm FreezeRae - aka [Rheanne Blest](https://rheannerazo.com/) 👋
+[![Website](https://img.shields.io/website?label=rheannerazo.com&style=for-the-badge&url=https://rheannerazo.com/)](https://rheannerazo.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/BlestRazo?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/BlestRazo?fbclid=IwAR1oCP8-wpuD8SCmeRloDo3vneqeQjDbaLDzx09Uymnfwo7rsEfR-LVIeEY)
 
 ## I'm a Filipino, Daughter, Executive Assistant, and Student!!
 
-- 🔭 I just launched my first website: [Check out my Personal Website here1][website]!
+- 🔭 I just launched my first website: [Check out my Personal Website here!](https://rheannerazo.com/)
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with other driven inviduals who are pationate about learning
 - 🥅 2021 Goals: Upskill! Upskill! Upskill!
