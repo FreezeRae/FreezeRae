@@ -12,13 +12,14 @@
 - ⚡ Fun fact: I am into tabletop roleplay! 🎲
 
 ### Connect with me:
-
+[![General badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://calendly.com/rheannerazo/meet)
+[![General badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/639453814699)
+<br />
+<br />
 [<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />](https://rheannerazo.com/)
 [<img align="left" alt="codeSTACKr | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />](https://fb.me/RheanneVA)
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />](https://www.linkedin.com/in/rheanne-blest-razo/)
 <br />
-[![General badge](https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white)](https://calendly.com/rheannerazo/meet)
-[![General badge](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](http://wa.me/639453814699)
 <br />
 
 ### Languages and Tools:
@@ -42,13 +43,4 @@
 <br />
 ![General badge](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![General badge](https://img.shields.io/badge/Intel-Core_i5_10th-0071C5?style=for-the-badge&logo=intel&logoColor=white)
-<br />
-
-
-
-<br />
-
-
-<br />
-<br />
 <br />
